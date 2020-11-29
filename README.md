@@ -5,7 +5,7 @@
 Project Cassie aims to completely redesign the way we learn and improve our cognitive ability, with an emphasis on tailored learning experiences that cater to the individual, instead of the "one size fits all" education systems we currently have. Cassie uses player data to creat Player Behavioural Models in order to update parameters within the game engine to make real-time updates to improve users ability to learn and increase neuroplasticity.
 <br>
 <div style="text-align: center;">
-<img src="https://github.com/the-muses-ltd/Cassie/blob/main/Assets/neuron.gif" width="30%" />
+<img src="https://github.com/the-muses-ltd/Cassie/blob/main/Readme%20Assets/neuron.gif?raw=true" width="30%" />
 </div>
 <br>
 <br>
