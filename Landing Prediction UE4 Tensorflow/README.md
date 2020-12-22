@@ -6,11 +6,11 @@ This is a basic UE4 Environment that utilizes a neural network by taking in play
 
 #### Requirements
 
-UE 4.23
-AFRICAN ANIMALS PACK BY PROTOFACTOR INC (can be downloaded for free from Epic Games Marketplace)
-tensorflow-ue4 plugin v0.14.0 for UE4.23 from getnamo (https://github.com/getnamo/tensorflow-ue4/releases/tag/0.14.0)
-TensorFlow 1.15
-Python 3.5–3.8
+- UE 4.23
+- AFRICAN ANIMALS PACK BY PROTOFACTOR INC (can be downloaded for free from Epic Games Marketplace)
+- tensorflow-ue4 plugin v0.14.0 for UE4.23 from getnamo (https://github.com/getnamo/tensorflow-ue4/releases/tag/0.14.0)
+- TensorFlow 1.15
+- Python 3.5–3.8
 
 #### Video Overview
 
