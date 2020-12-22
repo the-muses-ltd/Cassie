@@ -1,1 +1,0 @@
-Placeholder for Proof of concept Readme
